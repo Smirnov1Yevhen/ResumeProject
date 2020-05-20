@@ -1,0 +1,41 @@
+// button{
+//     margin-right: 10px;
+// }
+
+// .btn-sm {
+// font-size: 0.8em;
+// padding: 5px;
+// line-height: 8px;
+
+// }
+#box{
+    position: relative;
+    background-color: rgba($color: rgb(255, 255, 255), $alpha: 0.95);
+    border: double 4px rgb(214, 196, 191);
+    width: 80%;
+    height: 1000px;
+    margin-top: -1300px;
+   left: 10%;
+   overflow-x:hidden;
+   
+}
+
+li {
+    background: #ddd;
+    border: 1px solid #ddd;
+    padding: 5px;
+    margin: 5px;
+    width: 200px;
+  list-style-type: none; 
+  }
+  li {
+    cursor: pointer;
+    text-decoration: none;
+  }
+  #q{
+    background: linear-gradient(360deg, rgba(255,234,67,1) 50%, rgba(32,195,228,1) 50%);
+  }
+  #f{
+background: linear-gradient(90deg, rgba(0,35,210,1) 11%, rgba(255,255,255,1) 50%, rgba(228,32,32,1) 82%);;
+
+  }
